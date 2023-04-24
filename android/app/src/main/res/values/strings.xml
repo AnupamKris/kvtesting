@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">kvtesting</string>
+    <string name="title_activity_main">kvtesting</string>
+    <string name="package_name">com.anupamkris.app</string>
+    <string name="custom_url_scheme">com.anupamkris.app</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "appId": "com.anupamkris.app",
+  "appName": "kvtesting",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
